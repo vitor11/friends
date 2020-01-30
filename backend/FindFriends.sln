@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFriends", "FindFriends\FindFriends.csproj", "{201D2921-D7F1-424B-97A1-B2B02C191141}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTes", "UnitTes\UnitTes.csproj", "{0E79FDA4-14BF-4C46-BB92-5B4555C3213B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201D2921-D7F1-424B-97A1-B2B02C191141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201D2921-D7F1-424B-97A1-B2B02C191141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201D2921-D7F1-424B-97A1-B2B02C191141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201D2921-D7F1-424B-97A1-B2B02C191141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E79FDA4-14BF-4C46-BB92-5B4555C3213B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E79FDA4-14BF-4C46-BB92-5B4555C3213B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E79FDA4-14BF-4C46-BB92-5B4555C3213B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E79FDA4-14BF-4C46-BB92-5B4555C3213B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDA9F3E-5C32-4ABC-BCE2-8AF0BB3CAFA8}
+	EndGlobalSection
+EndGlobal

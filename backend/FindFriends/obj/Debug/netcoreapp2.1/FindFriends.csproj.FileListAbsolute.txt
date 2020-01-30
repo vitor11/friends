@@ -1,0 +1,43 @@
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csprojAssemblyReference.cache
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csproj.CoreCompileInputs.cache
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cache
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cs
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfoInputs.cache
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfo.cs
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.deps.json
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.json
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.dev.json
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.dll
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.pdb
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorTargetAssemblyInfo.cache
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.dll
+C:\Users\SND10971\source\repos\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.pdb
+D:\ASP nET\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.deps.json
+D:\ASP nET\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.json
+D:\ASP nET\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.dev.json
+D:\ASP nET\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.dll
+D:\ASP nET\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.pdb
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csprojAssemblyReference.cache
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csproj.CoreCompileInputs.cache
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cache
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cs
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfoInputs.cache
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfo.cs
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorTargetAssemblyInfo.cache
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.dll
+D:\ASP nET\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.pdb
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.deps.json
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.json
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.runtimeconfig.dev.json
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.dll
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.pdb
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csproj.CoreCompileInputs.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorAssemblyInfo.cs
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfoInputs.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.AssemblyInfo.cs
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.RazorTargetAssemblyInfo.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.dll
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.pdb
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\bin\Debug\netcoreapp2.1\FindFriends.xml
+C:\Users\SND10971\Desktop\backend\FindFriends\FindFriends\obj\Debug\netcoreapp2.1\FindFriends.csprojAssemblyReference.cache

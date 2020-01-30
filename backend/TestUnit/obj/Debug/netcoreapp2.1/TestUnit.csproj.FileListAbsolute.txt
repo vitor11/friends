@@ -1,0 +1,4 @@
+C:\Users\SND10971\Desktop\backend\FindFriends\TestUnit\obj\Debug\netcoreapp2.1\TestUnit.csprojAssemblyReference.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\TestUnit\obj\Debug\netcoreapp2.1\TestUnit.csproj.CoreCompileInputs.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\TestUnit\obj\Debug\netcoreapp2.1\TestUnit.AssemblyInfoInputs.cache
+C:\Users\SND10971\Desktop\backend\FindFriends\TestUnit\obj\Debug\netcoreapp2.1\TestUnit.AssemblyInfo.cs

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FindFriends</name>
+    </assembly>
+    <members>
+        <member name="M:FindFriends.Controllers.UsuariosController.PostFriend(FindFriends.Models.Friend)">
+            <summary>
+            Api para cadastrar amigo
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.GetFriend(System.Int32)">
+            <summary>
+            Api para buscar amigo específico
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.GetAllFriendsByUser(System.Int32)">
+            <summary>
+            Api para listar todos os amigos
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.GetLog">
+            <summary>
+            Api para pegar o log dos cálculos realizados na aplicação
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.GetAllUsers(System.String)">
+            <summary>
+            Api para salvar as informações do usuário
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.getCloseThreFriends(System.Int32,System.Double,System.Double)">
+            <summary>
+            Api para listar os 3 amigos mais próximos a partir da localização informada
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.PutFriend(System.Int32,FindFriends.Models.Friend)">
+            <summary>
+            Api para alterar informações de um amigo
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.DeleteFriend(System.Int32)">
+            <summary>
+            Api para deletear um amigo
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.CreateUser(FindFriends.Models.UserInfo)">
+            <summary>
+            Api para criar um usuário
+            </summary> 
+        </member>
+        <member name="M:FindFriends.Controllers.UsuariosController.Login(FindFriends.Models.UserInfo)">
+            <summary>
+            Api para fazer o login na aplicação
+            </summary> 
+        </member>
+    </members>
+</doc>
