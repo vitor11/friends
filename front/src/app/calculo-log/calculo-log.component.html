@@ -1,0 +1,122 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>Procura Amigo</title>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+
+
+    </head>
+    <body>
+        <section>
+            <div class="text-right">
+                <button (click)="logout()" class="btn btn-dark font-16">Sair</button>
+            </div>
+            <div class="all p-5">
+                <div class="row">
+                    <div class="col-12 w-25 p-3 border text-center"><h1>Procura Amigos</h1></div>
+                </div>
+              </div>
+              <div class="addFriend">
+                        <div class="row m-3">
+                            <div class="col-12">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="form-group">
+                                            <label for="pTitle"><strong>Latitude</strong></label>
+                                            <input #pLat type="number" name="pLat" class="form-control required" placeholder="Latitude" value="">
+                                        </div>
+                                    </div>
+                                    <div class="col-5">
+                                        <!--<div class="col-8 form-group">-->
+                                            <label for="pTitle"><strong>Longitude</strong></label>
+                                            <input #pLong type="number" name="pLong" class="form-control required" placeholder="Longitude" value="">
+                                        <!--</div>-->
+                                    </div>
+                                    <div class="col-2 mt-4"> 
+                                        <button (click)="calculate(pLat.value, pLong.value)" class="btn btn-info font-16">Pesquisar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- </form> -->
+                </div>
+                <div class="listFriends">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Latitude</th>
+                                <th>Longitude</th>
+                                <th>Opções</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <!-- <div class="col-12"> -->
+                                        <input #pName type="text" name="pName" class="form-control required" placeholder="Nome">
+                                    <!-- </div> -->
+                                </td>
+                                <td>
+                                    <!-- <div class="col-12"> -->
+                                            <input #pLatitudeB type="text" name="pLatitudeB" class="form-control required" placeholder="Latitude">
+                                    <!-- </div> -->
+                                </td>
+                                <td>
+                                    <!-- <div class="col-12"> -->
+                                            <input #pLongitudeB type="text" name="pLongitudeB" class="form-control required" placeholder="Longitude">
+                                    <!-- </div> -->
+                                </td>
+                                <td>
+                                    <button (click)="save(pName.value, pLatitudeB.value, pLongitudeB.value)" class="btn btn-success font-16">Adicionar</button>
+                                </td>
+                            </tr>
+                            <!-- <div class="row"> -->
+                                <!-- <div class="col-12"> -->
+                            <tr *ngFor="let role of roles">
+                        
+                                <!-- <div class="row"> -->
+                                    <td>
+                                        <!-- <div class="col-12"> -->
+                                            <input #pName type="text" name="pName" class="form-control required" placeholder="Nome" value="{{role.name}}">
+                                        <!-- </div> -->
+                                    </td>
+                                    <td>
+                                        <!-- <div class="col-12"> -->
+                                                <input #pLatitudeB type="text" name="plat" class="form-control required" placeholder="Latitude" value="{{role.latitudeB}}">
+                                        <!-- </div> -->
+                                    </td>
+                                    <td>
+                                        <!-- <div class="col-12"> -->
+                                                <input #pLongitudeB type="text" name="plon" class="form-control required" placeholder="Longitude" value="{{role.longitudeB}}">
+                                        <!-- </div> -->
+                                    </td>
+                                    <td>
+                                        <!-- <div class="col-12">  -->
+                                            <div class="row">
+                                                <!--<div class="col-4">
+                                                    <button class="btn btn-success font-16">Salvar</button>
+                                                </div>-->
+                                                <div class="col-4"> 
+                                                    <button (click)="update(role.friendId, pName.value, pLatitudeB.value, pLongitudeB.value)" [attr.data-id] = role.friendId class="btn btn-primary font-16">Alterar</button>
+                                                </div>
+                                                <div class="col-4">
+                                                    <button (click)="delete(role.friendId)"  [attr.data-id] = role.friendId class="btn btn-danger font-16">Excluir</button>
+                                                </div>
+                                            </div>
+                                        <!-- </div> -->
+                                    </td>
+                                <!-- </div> -->
+                            </tr>
+                                <!-- </div> -->
+                            <!-- </div> -->
+                        </tbody>
+                    </table>
+                </div>
+        </section>
+    </body>
+</html>

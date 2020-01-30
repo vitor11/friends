@@ -1,0 +1,35 @@
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+
+        <!-- Icon -->
+        <div class="fadeIn first">
+            <strong><h2>Logar</h2></strong>
+        </div>
+
+        <!-- Login Form 
+        <form> -->
+        <input #pUser type="text" id="login" class="fadeIn second" name="pUser" placeholder="Usuário">
+        <input #pPass type="password" id="password" class="fadeIn third" name="pPass" placeholder="Senha"><br>
+        <label class="col-10 text-left font-10">
+            <span class="font-8">
+                <small>Obs: A senha deve conter Letra maiúscula, carácter especial, número e no mínimo 6 carácteres.</small>
+            </span><br>
+        </label>
+        <label class="col-10 text-left font-10">
+            <span class="font-8"><small>Ex: senha: Amigo#2020</small></span>
+        </label>
+        
+        <div class="mt-5 mb-5">
+            <button (click)="loginUser(pUser.value, pPass.value)" class="btn btn-info font-16 col-4">Logar</button>
+            <button (click)="createAccount(pUser.value, pPass.value)" class="btn btn-primary font-16 col-4">Cadastrar</button>
+        </div>
+            <!--<input type="submit" class="fadeIn fourth" value="Log In">-->
+        
+
+        <!-- Remind Passowrd -->
+        <div id="formFooter">
+        <!-- <a class="underlineHover" href="#">Forgot Password?</a> -->
+        </div>
+
+    </div>
+</div>
