@@ -1,0 +1,12 @@
+
+CREATE TABLE dbo.CalculoHistoricoLog(
+	id int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	FriendId int NOT NULL,
+	UserID int NOT NULL,
+	Name nvarchar(max) NULL,
+	LatitudeA float NOT NULL,
+	LongitudeA float NOT NULL,
+	LatitudeB float NOT NULL,
+	LongitudeB float NOT NULL,
+	Distance float NOT NULL
+)
