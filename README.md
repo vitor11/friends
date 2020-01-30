@@ -1,11 +1,13 @@
 # friends
 ------------------------------ FRONTEND ------------------------------
-Segue as instruções para executar o frontend do projeto
+
+- Segue as instruções para executar o frontend do projeto
 
 * Abra o CMD na pasta do projeto e execute o comando ng s no pronpt de comando
 
 ------------------------------- BACKEND ------------------------------
-Segue as instruções para executar o backend do projeto
+
+- Segue as instruções para executar o backend do projeto
 
 * Abra o projeto no visual studio
 * Abrir o console do gerenciador de pacotes
